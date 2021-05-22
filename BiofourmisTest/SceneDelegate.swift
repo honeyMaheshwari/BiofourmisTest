@@ -2,11 +2,12 @@
 //  SceneDelegate.swift
 //  BiofourmisTest
 //
-//  Created by Admin on 22/05/21.
+//  Created by Honey Maheshwari on 22/05/21.
 //
 
 import UIKit
 
+@available(iOS 13.0, *)
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
